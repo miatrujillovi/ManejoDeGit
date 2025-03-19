@@ -1,4 +1,5 @@
-Codigo de la NO Conducta.-
-- Nunca colocar comentarios
-- Nunca aclarar de que va el Script
-- Escribir las variables de la formas mas confusa posible
+Este es un Codigo de Conducta.-
+- Se deben agregar comentarios al codigo.
+- Tener un bloque de codigo al inicio de cada script que explique su funcion.
+- Nombrar variables con el metodo del camello.
+- No realizar push de branches hasta haberse confirmado que no interfiere en otras partes del master.
